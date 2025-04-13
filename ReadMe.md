@@ -5,6 +5,10 @@ This project implements a MySQL database for managing a bookstore's operations. 
 Objective
 The objective of this project is to design and implement a relational database system using MySQL to efficiently manage the key operations of a bookstore. This includes storing and retrieving information about books, authors, customers, orders, and shipping. The system aims to streamline data handling, enhance operational transparency, and support future scalability and reporting needs, ensuring smooth day-to-day bookstore management.
 
+CONTRIBUTERS 
+1. JORAM Mwanyika EMAIL:jorammwanyika@gmail.com
+2. PAULINE Mwangi EMAIL:polinmwangi6115@gmail.com
+3. IFUKOR Joshua Ikechukwu EMAIL:dejosh055@gmail.com
 
 
  Project Structure
